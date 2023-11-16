@@ -6,9 +6,13 @@
     text-decoration: none;
 }
 
+body {
+    background-color: #000;
+}
+
 
 .container {
-    max-width: 1400px;
+/*     max-width: 1400px; */
     height: 100vh;
     margin: 0 auto;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
